@@ -11,9 +11,9 @@ Horiseon is marketing agency that wants to refactor an existing site to make it 
 
 ## Why make it more accessible?
 
-```
+
 Accesibility has become a very important subjet, because is necessary to ensure a site can be used by everyone
-```
+
 
 ## Process
 
@@ -52,7 +52,7 @@ To solve the needs to this subject, I use the following pages
 
 ## Challenge
 
-It was my first assignment, therefore it was a challenge and a bit difficult, which were more related to how to deliver it and achieve the main goal, which by te way was also difficult to define 
+It was my first assignment, therefore it was a challenge and a bit difficult, which were more related to how to deliver it and achieve the main goal, which by the way was also difficult to define 
 
 ## Contributing
 https://github.com/AlheliMi/homeworkunit1.git
